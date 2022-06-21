@@ -1,0 +1,17 @@
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\bin\Debug\net6.0-windows\WinFormsApp-Test.exe
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\bin\Debug\net6.0-windows\WinFormsApp-Test.deps.json
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\bin\Debug\net6.0-windows\WinFormsApp-Test.runtimeconfig.json
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\bin\Debug\net6.0-windows\WinFormsApp-Test.dll
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\bin\Debug\net6.0-windows\WinFormsApp-Test.pdb
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.csproj.AssemblyReference.cache
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp_Test.Form1.resources
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.csproj.GenerateResource.cache
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.AssemblyInfoInputs.cache
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.AssemblyInfo.cs
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.csproj.CoreCompileInputs.cache
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.dll
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\refint\WinFormsApp-Test.dll
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.pdb
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\WinFormsApp-Test.genruntimeconfig.cache
+D:\work\c#-workspace\WinFormsApp-Test\WinFormsApp-Test\WinFormsApp-Test\obj\Debug\net6.0-windows\ref\WinFormsApp-Test.dll
